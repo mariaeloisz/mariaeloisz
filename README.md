@@ -1,7 +1,7 @@
 sejam bem vindos!
 - 👋 Hi, I’m @mariaeloisz
-- 🔭Estou estudando na Alura
-- 💬Estou me desenvolvendo na linguagem JavaScript
+- 🔭I'm studying at alura
+- 💬I'm developing in the JavaScript language
 - 👀 I’m interested in jogos
 <!---
 mariaeloisz/mariaeloisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
